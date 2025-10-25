@@ -25,6 +25,11 @@ This project was built to practice HTML fundamentals from freeCodeCamp
 1- Clone: git clone https://github.com/irdxe/Checkout-page.git
 2- Open: Open `index.html` in your browser
 
+## Screenshot
+
+ ![Home page](screenshot-checkout-page.png)
+
+
 ## Credits:
 
 Based on freeCodeCamp exercises: https://www.freecodecamp.org/
