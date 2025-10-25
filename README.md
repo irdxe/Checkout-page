@@ -1,6 +1,6 @@
 # Checkout-page
 
-A checkout page built to practice semantic HTML and acessibility features (ARIA elements).
+A checkout page built to practice semantic HTML and accessibility features (ARIA elements).
 
 ## Demo
 
@@ -8,11 +8,11 @@ https://irdxe.github.io/Checkout-page/
 
 ## About
 
-This project was built to practice HTML fundamentals from freeCodeCamp
+This project was built to practice HTML fundamentals from freeCodeCamp, focusing in accessibility.
 
 - Semantic HTML (including section, header, main, figure) 
-- Form elements (including label, input, id,, type, name, placeholder)
-- Acessibility features (ARIA, figcaption)
+- Form elements (including label, input, id, type, name, placeholder)
+- Accessibility features (ARIA, figcaption)
 
 ## What I learned
 
